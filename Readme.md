@@ -1,3 +1,3 @@
-This is a TubiTV addon for KODI.
+# TubiTV Addon for KODI.
 
 Important: Install dependencies before installing addon.
